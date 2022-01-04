@@ -6,7 +6,7 @@
 
 <p align=center>Dans le cadre de ma recherche d'approfondissement, de mes connaissances en javascript:</br>
 J'ai crée un jeu de memory game en HTML, CSS et JAVASCRIPT.</br>
-Le principe du jeu est simple,  </br>
+  </br>
 Il y a un nombre de </p>
 
 <h2 align=center>👁️ Visuel :</h2>
