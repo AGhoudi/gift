@@ -7,7 +7,7 @@
 <p align=center>Dans le cadre de ma recherche d'approfondissement, de mes connaissances en javascript:</br>
 J'ai crée un jeu de memory game en HTML, CSS et JAVASCRIPT.</br>
   </br>
-Il y a</p>
+Il y</p>
 
 <h2 align=center>👁️ Visuel :</h2>
 <div align=center><img src="https://i.postimg.cc/XvK18NBm/memory.jpg" alt="visuel du jeu"</div>
