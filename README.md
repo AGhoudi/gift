@@ -21,3 +21,4 @@
 <p align=center>Voici un lien pour tester le jeu:
 
   <a title="https://codepen.io/Link1986/pen/ZmoWqL" role="link" target="_blank" class="text-bold" rel="noopener noreferrer" href="https://codepen.io/Link1986/pen/ZmoWqL">codepen.io/link1986/pen/zmowql</a></p>
+![gift](https://user-images.githubusercontent.com/27373255/148591668-264b44bc-576a-4294-846f-0f00cdebbd95.png)
